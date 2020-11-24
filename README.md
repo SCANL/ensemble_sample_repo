@@ -1,7 +1,7 @@
 
 
 # Ensemble tagger sample
-This is a usable sample of the ensemble tagger described in our manuscript.
+This is a usable sample of the ensemble tagger described in our (in-submission) manuscript. A full release is coming!
 
 ## Setup and Run
 You will need **python3** installed. We will explicitly use the **python3** command below but, of course, if your environment is configured to use python3 by default, you do not need to.
