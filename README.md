@@ -47,4 +47,4 @@ The ensemble outputs to a file called **predictions.csv** in the project root di
 If you are getting low accuracy, something is configured incorrectly. 
 
 ## Can I run it on code?
-Not yet, unfortunately. We are currently working on a version that works on a  [srcML archive](srcml.org). The version you see here is just a prototype we are using to evaluate the accuracy of the ensemble.
+Not yet, unfortunately. We are currently working on a version that works on a  [srcML archive](https://www.srcml.org). The version you see here is just a prototype we are using to evaluate the accuracy of the ensemble.
